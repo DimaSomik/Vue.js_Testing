@@ -1,0 +1,28 @@
+.navContainer {
+    display: flex;
+    align-items: center;
+    padding: 0px 15px;
+    justify-content: space-between;
+}
+
+.bar {
+    display: flex;
+    list-style-type: none;
+    gap: 10px;
+    margin: 0;
+}
+
+.mainPage {
+    text-decoration: none;
+    font-size: 32px;
+    color: beige;
+}
+
+.home {
+    text-decoration: none;
+    color: azure;
+}
+
+.active {
+    color: palevioletred;
+}
